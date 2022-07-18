@@ -128,7 +128,8 @@ cursor.init();
 
 
 // Error message
-// var txt;
-//   if (confirm("This Site is Under development, it's only available for Desktop Version. Responsive version is under development")) {
-//   }
-//   document.getElementById("demo").innerHTML = txt;
+
+var txt;
+  if (confirm("This Site is Demo Version, it's only available for Desktop Version. Responsive and Full version is under development")) {
+  }
+  document.getElementById("demo").innerHTML = txt;
